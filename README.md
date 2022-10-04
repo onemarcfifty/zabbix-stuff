@@ -18,3 +18,7 @@ Debian:
     sed -i -E "s/^Server=127.0.0.1/Server=192.168.1.123/" /etc/zabbix/zabbix_agentd.conf
 
 
+See the details about the LXC container memory problem here : 
+[Github of Andrei Kvapil](https://github.com/kvaps/zabbix-linux-container-template)
+
+
